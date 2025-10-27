@@ -15,7 +15,15 @@
 
 ---
 
-## ⚙️ Tech & Tools  
+## 🌱 Currently Learning  
+
+- 🤖 Machine Learning  
+- 🧠 Deep Learning  
+- 🧬 Artificial Intelligence (AI)
+
+---
+
+## ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -29,7 +37,7 @@
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Connects Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Caroline%20Odilia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carolineodilia)
 [![Email](https://img.shields.io/badge/Email-carolinechr.sch@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolinechr.sch@gmail.com)
