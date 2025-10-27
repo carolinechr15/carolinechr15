@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Caroline!
+# 👋 Hi There! I'm Caroline!
 
 🎓 **Undergraduate Data Science Student at Bina Nusantara University**  
 💼 **Human Resources Development Staff at Bina Nusantara Computer Club (BNCC)**  
